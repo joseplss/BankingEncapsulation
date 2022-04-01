@@ -1,0 +1,14 @@
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\BankingEncapsulation\BankingEncapsulation\bin\Debug\netcoreapp3.1\BankingEncapsulation.exe
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\BankingEncapsulation\BankingEncapsulation\bin\Debug\netcoreapp3.1\BankingEncapsulation.deps.json
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\BankingEncapsulation\BankingEncapsulation\bin\Debug\netcoreapp3.1\BankingEncapsulation.runtimeconfig.json
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\BankingEncapsulation\BankingEncapsulation\bin\Debug\netcoreapp3.1\BankingEncapsulation.runtimeconfig.dev.json
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\BankingEncapsulation\BankingEncapsulation\bin\Debug\netcoreapp3.1\BankingEncapsulation.dll
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\BankingEncapsulation\BankingEncapsulation\bin\Debug\netcoreapp3.1\BankingEncapsulation.pdb
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\BankingEncapsulation\BankingEncapsulation\obj\Debug\netcoreapp3.1\BankingEncapsulation.csproj.AssemblyReference.cache
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\BankingEncapsulation\BankingEncapsulation\obj\Debug\netcoreapp3.1\BankingEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\BankingEncapsulation\BankingEncapsulation\obj\Debug\netcoreapp3.1\BankingEncapsulation.AssemblyInfoInputs.cache
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\BankingEncapsulation\BankingEncapsulation\obj\Debug\netcoreapp3.1\BankingEncapsulation.AssemblyInfo.cs
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\BankingEncapsulation\BankingEncapsulation\obj\Debug\netcoreapp3.1\BankingEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\BankingEncapsulation\BankingEncapsulation\obj\Debug\netcoreapp3.1\BankingEncapsulation.dll
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\BankingEncapsulation\BankingEncapsulation\obj\Debug\netcoreapp3.1\BankingEncapsulation.pdb
+C:\Users\Coding Bootcamp\Desktop\repos\CSharp25\BankingEncapsulation\BankingEncapsulation\obj\Debug\netcoreapp3.1\BankingEncapsulation.genruntimeconfig.cache
